@@ -20,9 +20,9 @@ At the moment [Prism Launcher](https://prismlauncher.org/) is reccommended.
 1. extract patch folder contents.
 2. open minecraft folder
 3. open old client minecraft folder
-4. back up configs of any custom settings like pokemon spawn alerts
-5. delete folders found in patch/minecraft in the old client side.
-6. copy all patch/minecraft folders for a clean patch in your older client.
+4. In the old client: back up configs of any custom settings like pokemon spawn alerts
+5. In the old client: delete folders found in patch/minecraft.
+6. Copy all patch/minecraft folders for a clean patch to your old client.
 
 ____
 
