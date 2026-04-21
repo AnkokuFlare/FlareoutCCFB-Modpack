@@ -1,7 +1,7 @@
 # Flareout CCFB Modpack
-Cobblemon Minecraft Modpack
-Overview
-Mayview introduced a Stardew and Pokemon feel. Now Kick it up to 11 with Pokemon Features!
+
+### Overview
+[Mayview](https://github.com/bigchadguys/mayview-modpack) introduced a Stardew and Pokemon feel. Now Kick it up to 11 with Pokemon Features!
 
 With a good deal of trial and error, The foundational island of CC2C from the BCG Pack was transfered over to a new world. With a handful for returning mods, the structures and lands got a fresh coat of new blocks and biomes. Unfortunately the was some data that will not be making the cut. Mainly do to the change of Fabric to Neoforge. Tara had mention sinytra connector for some of the missing Minecraft mods, but it leaks and crashes too frequently with Mayview's Biome Mods. Overall the world seems to runs stable from the multiple boots and exploration around the island. It's still a fixer upper, but a good deal of the foundations are in tact
 
