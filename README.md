@@ -11,8 +11,9 @@ With a good deal of trial and error, The foundational island of CC2C from the BC
 At the moment [Prism Launcher](https://prismlauncher.org/) is reccommended.
 
 1. download client
-2. add instance
-3. import
+2. open prism launcher
+2. Find and click add instance on top right of the prism launcher window.
+3. Find and click import on the side tab menu.
 4. click browse and find zip location.
 
 ### Patch
