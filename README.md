@@ -1,4 +1,4 @@
-# Flareout CCFB Modpack
+# Flareout Cobblemon Coasts Further Beyond Modpack
 
 ### Overview
 [Mayview](https://github.com/bigchadguys/mayview-modpack) introduced a Stardew and Pokemon feel. Now Kick it up to 11 with Pokemon Features!
